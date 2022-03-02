@@ -1,0 +1,17 @@
+2020-08-01 22:06:33,650 - root - INFO - exec_day :2020-08-01, exec_hour :22, exec_minute :06
+2020-08-01 22:06:39,016 - tensorflow - WARNING - From /Users/qudian/Desktop/TextMatch/textmatch/models/text_embedding/albert_embedding.py:29: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-08-01 22:06:39,040 - tensorflow - WARNING - From /Users/qudian/anaconda3/envs/py37/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:541: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-08-01 22:06:39,045 - tensorflow - WARNING - From /Users/qudian/anaconda3/envs/py37/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4479: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+2020-08-01 22:06:39,105 - tensorflow - WARNING - From /Users/qudian/anaconda3/envs/py37/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:66: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-08-01 22:06:39,894 - tensorflow - WARNING - From /Users/qudian/anaconda3/envs/py37/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-08-01 22:06:40,204 - root - INFO - [Bow] start build tfidf model.
+2020-08-01 22:06:40,209 - root - INFO - [Bow] build tfidf model success.
+2020-08-01 22:06:40,211 - root - INFO - [Tfidf] start build tfidf model.
+2020-08-01 22:06:40,215 - root - INFO - [Tfidf] build tfidf model success.
+2020-08-01 22:06:40,218 - root - INFO - [NgramTfIdf] start build ngram_tfidf model.
+2020-08-01 22:06:40,220 - root - INFO - [NgramTfIdf] build ngram_tfidf model success.
